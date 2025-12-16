@@ -25,7 +25,7 @@ Here's a screenshot of the application:
 
 Check out the live demo [here](https://to-do-timetable.netlify.app/).
 
-<!-- ## Or to install it?
+## Or to install it?
 
 1. Clone the repository:
    ```bash
@@ -41,4 +41,4 @@ Check out the live demo [here](https://to-do-timetable.netlify.app/).
 
 3. Start the application:
    ```bash
-   npm run dev -->
+   npm run dev
